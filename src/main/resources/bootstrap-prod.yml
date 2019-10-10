@@ -25,4 +25,4 @@ spring:
       uri: http://192.168.154.128:8888
       name: YKR-zipkin
       label: master
-      profile: dev
+      profile: prod
